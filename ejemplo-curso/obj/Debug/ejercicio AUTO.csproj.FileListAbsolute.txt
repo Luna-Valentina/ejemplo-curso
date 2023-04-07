@@ -1,0 +1,8 @@
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\obj\Debug\ejercicio AUTO.csproj.AssemblyReference.cache
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\obj\Debug\ejercicio AUTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\obj\Debug\ejercicio AUTO.csproj.CoreCompileInputs.cache
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\bin\Debug\ejercicio AUTO.exe.config
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\bin\Debug\ejercicio AUTO.exe
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\bin\Debug\ejercicio AUTO.pdb
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\obj\Debug\ejercicio AUTO.exe
+C:\Users\vale_\OneDrive\Escritorio\CURSO MAXI PROGRAMA\NIVEL 2\ejercicio AUTO\obj\Debug\ejercicio AUTO.pdb
